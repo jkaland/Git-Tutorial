@@ -5,5 +5,6 @@ inline long long add(int, int);
 
 inline long long mult(int, int);
 
+inline long long sub(int, int);
 
 #endif
